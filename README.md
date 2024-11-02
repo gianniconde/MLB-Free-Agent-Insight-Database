@@ -1,1 +1,1 @@
-# MLB-Database-with-SQL
+# MLB Free Agent Insight Database
