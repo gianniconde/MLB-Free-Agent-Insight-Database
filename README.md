@@ -15,7 +15,7 @@ https://www.fangraphs.com/roster-resource/free-agent-tracker?&season=2022
 3. Database design <br>
 4. Data creation <br>
 5. Data questions <br>
-6. Implementation <br>
+6. Front-end implementation <br>
 
 ## Tool(s) Required
 - SQL
